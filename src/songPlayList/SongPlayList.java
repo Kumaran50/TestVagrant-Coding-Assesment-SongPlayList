@@ -45,27 +45,5 @@ public class SongPlayList {
 		 System.out.println(m);
 		}
 		n.close();
-		/* Input should be in this form
-		  4-->Total Number of Songs
-		  3-->Initial capacity
-		  S1-->Song1
-		  S2-->Song2
-		  S3-->Song3
-		  S4-->Song4
-		  //Based on the Initial Capacity songs must be given.(In this example 3)
-		  Enter the song:
-		  S1
-		  Enter the song:
-		  s2
-		  Enter the song:
-		  S3
-		  //
-		   2-->Number of Trials. you are checking for adding the current song at the end and least song should be removed
-		 Enter the song:
-		 S4
-		 Output will be [S2,S3,S4]
-		 */
-
 	}
-
 }
