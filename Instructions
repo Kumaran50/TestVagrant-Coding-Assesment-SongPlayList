@@ -1,0 +1,20 @@
+/* Enter the input in this form
+		  Input :4(-->Total Number of Songs)
+		  Input :3(-->Initial capacity)
+		  Input :S1(-->Song1)
+		  Input :S2(-->Song2)
+		  Input :S3(-->Song3)
+		  Input :S4(-->Song4)
+		  //Based on the Initial Capacity songs must be given.(In this example 3)
+		  Enter the song:
+		  Input :S1
+		  Enter the song:
+		  Input :s2
+		  Enter the song:
+		  Input :S3
+		  //
+		  Input : 2(-->Number of Trials. you are checking for adding the current song at the end and least song should be removed)
+		 Enter the song:
+		 Input  :S4
+		 Output will be [S2,S3,S4]
+		 */
